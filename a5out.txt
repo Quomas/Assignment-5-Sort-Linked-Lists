@@ -1,0 +1,229 @@
+Script started on 2026-04-13 22:47:48-04:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="120" LINES="46"]
+[?2004h]0;quinlant3@thur114-hp1: ~/CSCI271/Assignment-5-Sort-Linked-Lists[01;32mquinlant3@thur114-hp1[00m:[01;34m~/CSCI271/Assignment-5-Sort-Linked-Lists[00m$ exitping 172.22.2.107[10P./a.outping 172.22.2.107exit[K[Kjava[K[K[K[K
+[?2004l[?2004h]0;quinlant3@thur114-hp1: ~/CSCI271/Assignment-5-Sort-Linked-Lists[01;32mquinlant3@thur114-hp1[00m:[01;34m~/CSCI271/Assignment-5-Sort-Linked-Lists[00m$ java assignment5
+[?2004l____________Main Menu_____________________
+select option :
+1: insert back
+2: insert front
+3: insert at index
+4: display items
+5: get item at index
+6: delete back
+7: delete front
+8: delete at index
+9: exit
+11: insert sorted
+88: split list
+99: insertion sort
+1
+enter item to insert:
+5
+____________Main Menu_____________________
+select option :
+1: insert back
+2: insert front
+3: insert at index
+4: display items
+5: get item at index
+6: delete back
+7: delete front
+8: delete at index
+9: exit
+11: insert sorted
+88: split list
+99: insertion sort
+1
+enter item to insert:
+74
+____________Main Menu_____________________
+select option :
+1: insert back
+2: insert front
+3: insert at index
+4: display items
+5: get item at index
+6: delete back
+7: delete front
+8: delete at index
+9: exit
+11: insert sorted
+88: split list
+99: insertion sort
+1
+enter item to insert:
+24
+____________Main Menu_____________________
+select option :
+1: insert back
+2: insert front
+3: insert at index
+4: display items
+5: get item at index
+6: delete back
+7: delete front
+8: delete at index
+9: exit
+11: insert sorted
+88: split list
+99: insertion sort
+1
+enter item to insert:
+37
+____________Main Menu_____________________
+select option :
+1: insert back
+2: insert front
+3: insert at index
+4: display items
+5: get item at index
+6: delete back
+7: delete front
+8: delete at index
+9: exit
+11: insert sorted
+88: split list
+99: insertion sort
+1
+enter item to insert:
+11
+____________Main Menu_____________________
+select option :
+1: insert back
+2: insert front
+3: insert at index
+4: display items
+5: get item at index
+6: delete back
+7: delete front
+8: delete at index
+9: exit
+11: insert sorted
+88: split list
+99: insertion sort
+1
+enter item to insert:
+37
+____________Main Menu_____________________
+select option :
+1: insert back
+2: insert front
+3: insert at index
+4: display items
+5: get item at index
+6: delete back
+7: delete front
+8: delete at index
+9: exit
+11: insert sorted
+88: split list
+99: insertion sort
+1
+enter item to insert:
+95
+____________Main Menu_____________________
+select option :
+1: insert back
+2: insert front
+3: insert at index
+4: display items
+5: get item at index
+6: delete back
+7: delete front
+8: delete at index
+9: exit
+11: insert sorted
+88: split list
+99: insertion sort
+1
+enter item to insert:
+21
+____________Main Menu_____________________
+select option :
+1: insert back
+2: insert front
+3: insert at index
+4: display items
+5: get item at index
+6: delete back
+7: delete front
+8: delete at index
+9: exit
+11: insert sorted
+88: split list
+99: insertion sort
+88
+enter index to split:
+4
+Original List BEFORE split:
+displayAll():
+____________List of 8 items________________
+[ 5 , 74 , 24 , 37 , 11 , 37 , 95 , 21] 
+
+Left List (modified L):
+displayAll():
+____________List of 4 items________________
+[ 5 , 74 , 24 , 37] 
+
+Right List (new list):
+displayAll():
+____________List of 4 items________________
+[ 11 , 37 , 95 , 21] 
+
+____________Main Menu_____________________
+select option :
+1: insert back
+2: insert front
+3: insert at index
+4: display items
+5: get item at index
+6: delete back
+7: delete front
+8: delete at index
+9: exit
+11: insert sorted
+88: split list
+99: insertion sort
+99
+List sorted!
+____________Main Menu_____________________
+select option :
+1: insert back
+2: insert front
+3: insert at index
+4: display items
+5: get item at index
+6: delete back
+7: delete front
+8: delete at index
+9: exit
+11: insert sorted
+88: split list
+99: insertion sort
+4
+displayAll():
+____________List of 4 items________________
+[ 5 , 24 , 37 , 74] 
+
+displayRecursively():
+____________List of 4 items________________
+[ 5 , 24 , 37 , 74] 
+
+____________Main Menu_____________________
+select option :
+1: insert back
+2: insert front
+3: insert at index
+4: display items
+5: get item at index
+6: delete back
+7: delete front
+8: delete at index
+9: exit
+11: insert sorted
+88: split list
+99: insertion sort
+9
+[?2004h]0;quinlant3@thur114-hp1: ~/CSCI271/Assignment-5-Sort-Linked-Lists[01;32mquinlant3@thur114-hp1[00m:[01;34m~/CSCI271/Assignment-5-Sort-Linked-Lists[00m$ exit
+[?2004lexit
+
+Script done on 2026-04-13 22:49:37-04:00 [COMMAND_EXIT_CODE="0"]
